@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I design and build user-centered digital products — from concept to interface.  
-My work bridges product design, interaction logic, and front-end.
+I design and build clean, accessible, and high-performance interfaces for web and mobile.  
+My work unites product thinking, design systems, and front-end development — from concept to final delivery.
 
 ---
 
@@ -25,7 +25,7 @@ My work bridges product design, interaction logic, and front-end.
 - 🎨 Passionate about **UI/UX Design**, **Frontend Development**, and **Web Systems**  
 - 🧩 I combine design thinking with clean, SEO-friendly code (HTML, SCSS, JS)  
 - ⚙️ I create design systems and reusable components for scalable products  
-- 🪄 Always exploring ways to bridge **Figma → Code** seamlessly  
+- 🔗 Always exploring ways to bridge **Figma → Code** seamlessly  
 - 🚀 Currently moving toward **Motion Design** and **mobile & web app development** (Flutter, React, etc.)
 
 ---
