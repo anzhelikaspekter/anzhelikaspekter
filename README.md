@@ -21,17 +21,17 @@ My work unites product thinking, design systems, and front-end development — f
 
 ---
 
-### 💡 About me
-- 🎨 Passionate about **UI/UX Design**, **Frontend Development**, and **Web Systems**  
-- 🧩 I combine design thinking with clean, SEO-friendly code (HTML, SCSS, JS)  
-- ⚙️ I create design systems and reusable components for scalable products  
-- 🔗 Always exploring ways to bridge **Figma → Code** seamlessly  
-- 🚀 Currently moving toward **Motion Design** and **mobile & web app development** (Flutter, React, etc.)
+### 💡 About me  
+🎨 Passionate about **UI/UX Design**, **Frontend Development**, and **Web Systems**  
+🧩 I combine design thinking with clean, SEO-friendly code (HTML, SCSS, JS)  
+⚙️ I create design systems and reusable components for scalable products  
+🔗 Always exploring ways to bridge **Figma → Code** seamlessly  
+🚀 Currently moving toward **Motion Design** and **mobile & web app development** (Flutter, React, etc.)
 
 ---
 
 ### 🧰 Tech & Tools
-**Design:** Figma, Adobe XD, Photoshop, Illustrator
+**Design:** Figma, Adobe XD, Photoshop, Illustrator  
 **Frontend:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
 **Validation:** W3C, A11y, Lighthouse, SEO Optimization  
 **Other:** Design Systems, UI Libraries, Component-based Architecture  
