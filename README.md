@@ -60,5 +60,5 @@ My work bridges product design, interaction logic, and front-end.
 ### 🤝 Open for collaboration
 If you’re looking for a designer & developer to build functional, aesthetic, and optimized web experiences — feel free to reach out.
 
-📧 **[@amzhelikaspekter](https://t.me/anzhelikaspekter)**
+📧 **[@anzhelikaspekter](https://t.me/anzhelikaspekter)**
 
