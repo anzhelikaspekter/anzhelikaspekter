@@ -34,7 +34,7 @@ My work bridges product design, interaction logic, and front-end.
 **Design:** Figma, Adobe XD, Photoshop, Illustrator
 **Frontend:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
 **Validation:** W3C, A11y, Lighthouse, SEO Optimization  
-**Other:** Design Systems, UI Libraries, Component-based Architecture
+**Other:** Design Systems, UI Libraries, Component-based Architecture  
 **Soon:** After Effects, React, Flutter
 
 ---
@@ -49,7 +49,6 @@ My work bridges product design, interaction logic, and front-end.
 [💬 Telegram](https://t.me/anzhelikaspekter)  
 [💎 Patreon](https://patreon.com/anzhelikaspekter)
 -->
----
 
 ### 📈 GitHub Stats
 ![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzhelikaspekter&show_icons=true&theme=default&hide_border=true&count_private=true)
