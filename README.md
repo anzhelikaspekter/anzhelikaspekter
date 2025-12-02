@@ -53,10 +53,8 @@ My work unites product thinking, design systems, and front-end development — f
 [📌 Pinterest](https://pinterest.com/anzhelikaspekter)  
 -->
 
-### 📈 GitHub Stats
-![Anzhelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzhelikaspekter&show_icons=true&theme=default&hide_border=true&count_private=true&nocache=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhelikaspekter&layout=compact&theme=default&hide_border=true&nocache=1)
+### 📊 GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/anzhelikaspekter/anzhelikaspekter/main/github-metrics.svg)
 
 ---
 
