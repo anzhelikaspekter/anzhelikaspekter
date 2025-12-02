@@ -35,20 +35,22 @@ My work unites product thinking, design systems, and front-end development — f
 **Frontend:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
 **Validation:** W3C, A11y, Lighthouse, SEO Optimization  
 **Other:** Design Systems, UI Libraries, Component-based Architecture  
-**Soon:** After Effects, React, Flutter
+**Soon:** After Effects, Premiere, React, React.Native, Flutter, Node.js, Python
 
 ---
-<!--
+
 ### 🌐 Find me online
 [⌨️ CodePen](https://codepen.io/anzhelikaspekter)]
+
+<!--
 [🌍 Website](https://spekter.solutions)  
 [🎨 Behance](https://www.behance.net/anzhelikaspekter)  
 [🟣 Dribbble](https://dribbble.com/anzhelikaspekter)  
 [✍️ Medium](https://medium.com/@anzhelikaspekter)  
-[📸 Instagram](https://instagram.com/anzhelikaspekter)  
-[📌 Pinterest](https://pinterest.com/anzhelikaspekter)  
 [💬 Telegram](https://t.me/anzhelikaspekter)  
 [💎 Patreon](https://patreon.com/anzhelikaspekter)
+[📸 Instagram](https://instagram.com/anzhelikaspekter)  
+[📌 Pinterest](https://pinterest.com/anzhelikaspekter)  
 -->
 
 ### 📈 GitHub Stats
