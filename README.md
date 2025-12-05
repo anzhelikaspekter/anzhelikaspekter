@@ -39,10 +39,9 @@ My work unites product thinking, design systems, and front-end development — f
 
 ---
 
+<!--
 ### 🌐 Find me online
 [⌨️ CodePen](https://codepen.io/anzhelikaspekter)
-
-<!--
 [🌍 Website](https://spekter.solutions)  
 [🎨 Behance](https://www.behance.net/anzhelikaspekter)  
 [🟣 Dribbble](https://dribbble.com/anzhelikaspekter)  
