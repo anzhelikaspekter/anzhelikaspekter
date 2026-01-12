@@ -1,30 +1,28 @@
 # Hi, I'm Anzhelika Spekter 👋  
-**UI/UX Designer & Frontend Developer**  
-**(Automation & Dashboard Systems — in training)**
+**Frontend Developer (Admin Panels, Dashboards & Internal Web Systems)**  
 
-I design and build clean, accessible, and high-performance interfaces for web and mobile.  
-My work unites product thinking, design systems, and front-end development — from concept to final delivery.
+Working with interface logic and web UI for websites, dashboards and web applications.
+SPA and SaaS projects are a priority direction.
 
 Currently expanding into backend development and automation systems.
 
 ---
 
 ### 💡 About me  
-🎛 Focused on **admin panels, dashboards, and internal web tools**  
-🧩 Strong in UI/UX systems, table & form interfaces, and operational layouts  
-🔗 Bridging **Figma → Frontend** for scalable web applications  
-⚙️ Learning backend development and automation systems (Python, APIs, databases)  
-🚀 Moving toward **automation & control systems development**
+🎛 Focused on **admin panels, dashboards and internal web tools**  
+🧱 6+ years of Front-End Development  
+🎨 7+ years of UI/UX Design background  
+🧩 Working with interface logic, layouts and UI behavior in web applications  
+⚙️ Learning backend development and automation systems (Python, APIs, databases)
 
 ---
 
 ### 🧰 Tech & Tools
-**Design & UX:** Figma, Admin Panel & Dashboard UX  
-**Frontend:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
-**Validation:** W3C, A11y, Lighthouse, SEO Optimization  
-**Other:** Design Systems, UI Libraries, Component-based Architecture  
-**Currently stage:** React, TypeScript  
-**Soon:** Python, FastAPI, PostgreSQL, SQL, Automation Systems
+**Frontend Core:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
+**Currently Learning:** React, TypeScript  
+**Design Background:** Figma, Admin Panel & Dashboard UX, Design Systems  
+**Validation & Quality:** W3C, A11y, Lighthouse, SEO Optimization  
+**Backend & Automation (In Progress):** Python, FastAPI, PostgreSQL, SQL, Automation Systems, Telegram Bots, Webhooks
 
 ---
 
@@ -39,8 +37,6 @@ Currently expanding into backend development and automation systems.
 [💎 Patreon](https://patreon.com/anzhelikaspekter)
 [📸 Instagram](https://instagram.com/anzhelikaspekter)  
 [📌 Pinterest](https://pinterest.com/anzhelikaspekter)  
-
-I design and build admin panels, dashboards, and internal tools for web systems.
 -->
 
 ### 📊 GitHub Metrics
