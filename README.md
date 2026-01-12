@@ -45,7 +45,7 @@ Currently expanding into backend development and automation systems.
 ---
 
 ### 🤝 Open for collaboration
-If you’re looking for a designer & developer to build functional, aesthetic, and optimized web experiences — feel free to reach out.
+If you’re looking for a developer to build functional, aesthetic and optimized web experiences — feel free to reach out.
 
 📧 **[@anzhelikaspekter](https://t.me/anzhelikaspekter)**
 
