@@ -10,10 +10,10 @@ Currently expanding into backend development and automation systems.
 ---
 
 ### 💡 About me  
-🎛 Focused on **admin panels, dashboards, and internal web tools**
-🧩 Strong in UI/UX systems, table & form interfaces, and operational layouts
-🔗 Bridging **Figma → Frontend** for scalable web applications
-⚙️ Learning backend development and automation systems (Python, APIs, databases)
+🎛 Focused on **admin panels, dashboards, and internal web tools**  
+🧩 Strong in UI/UX systems, table & form interfaces, and operational layouts  
+🔗 Bridging **Figma → Frontend** for scalable web applications  
+⚙️ Learning backend development and automation systems (Python, APIs, databases)  
 🚀 Moving toward **automation & control systems development**
 
 ---
