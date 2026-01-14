@@ -18,7 +18,7 @@ Currently expanding into backend development and automation systems.
 ---
 
 ### 🧰 Tech & Tools
-**Frontend Core:** HTML5, SCSS, JavaScript (ES6+), Git, Gulp, BEM, Responsive Grid  
+**Frontend Core:** HTML5, SCSS, JavaScript (ES6+), PHP, Git, Gulp, BEM, Responsive Grid  
 **Currently Learning:** React, TypeScript  
 **Design Background:** Figma, Admin Panel & Dashboard UX, Design Systems  
 **Validation & Quality:** W3C, A11y, Lighthouse, SEO Optimization  
