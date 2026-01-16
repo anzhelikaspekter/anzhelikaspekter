@@ -1,7 +1,9 @@
 # Hi, I'm Anzhelika Spekter 👋  
-**Frontend Developer (Admin Panels, Dashboards & Internal Web Systems)**  
+**Frontend Developer (Admin Panels, Dashboards, Internal Web Systems & Chat-Bot Automation)**  
 
-Working with interface logic and web UI for websites, dashboards and web applications.
+Working with interface logic and web UI for websites, dashboards and web applications,  
+as well as designing automation flows and chat-bots for business processes.
+
 SPA and SaaS projects are a priority direction.
 
 Currently expanding into backend development and automation systems.
@@ -12,6 +14,7 @@ Currently expanding into backend development and automation systems.
 🎛 Focused on **admin panels, dashboards and internal web tools**  
 🧱 6+ years of Front-End Development  
 🎨 7+ years of UI/UX Design background  
+🤖 3+ years designing and implementing chat-bots, funnels and business automations via SendPulse & Make  
 🧩 Working with interface logic, layouts and UI behavior in web applications  
 ⚙️ Learning backend development and automation systems (Python, APIs, databases)
 
@@ -22,6 +25,7 @@ Currently expanding into backend development and automation systems.
 **Currently Learning:** React, TypeScript  
 **Design Background:** Figma, Admin Panel & Dashboard UX, Design Systems  
 **Validation & Quality:** W3C, A11y, Lighthouse, SEO Optimization  
+**Chat-Bots & Automation Platforms:** SendPulse, Make, Telegram Bots, Instagram & Facebook bots
 **Backend & Automation (In Progress):** Python, FastAPI, PostgreSQL, SQL, Automation Systems, Telegram Bots, Webhooks
 
 ---
