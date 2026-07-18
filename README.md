@@ -1,48 +1,33 @@
-# Hi, I'm Anzhelika Spekter 👋  
-**Frontend Developer (Admin Panels, Dashboards, Internal Web Systems & Chat-Bot Automation)**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Anzhelika Spekter Profile Banner" src="dark.svg" width="100%">
+</picture>
 
-Working with interface logic and web UI for websites, dashboards and web applications,  
-as well as designing automation flows and chat-bots for business processes.
+## About Me
 
-SPA and SaaS projects are a priority direction.
+I bridge the gap between business operational logic and robust technical execution. My focus is engineering fault-tolerant workflows, scalable digital products, and custom Telegram Mini Apps (TMA).
 
-Currently expanding into React & TypeScript.
+### 🛠️ Tech Stack & Tools
+* **Automation & Integration Core:** Make (Integromat), REST APIs, Webhooks, Advanced Error/Fault Handling
+* **Frontend & Custom Interfaces:** React, TypeScript, Tailwind CSS, Telegram WebApps API
+* **AI Infrastructure:** LLM Integrations (OpenAI, Anthropic APIs), Autonomous AI Agents
 
----
-
-### 💡 About me  
-🎛 Focused on **admin panels, dashboards and internal web tools**  
-🧱 6+ years of Front-End Development  
-🎨 7+ years of UI/UX Design background  
-🤖 3+ years designing and implementing chat-bots, funnels and business automations via SendPulse & Make  
-🧩 Working with interface logic, layouts and UI behavior in web applications  
-⚙️ Learning React & TypeScript.
-
----
-
-### 🧰 Tech & Tools
-**Frontend Core:** HTML5, SCSS, JavaScript (ES6+), PHP, Git, Gulp, BEM, Responsive Grid  
-**Currently Learning:** React, TypeScript  
-**Design Background:** Figma, Admin Panel & Dashboard UX, Design Systems  
-**Validation & Quality:** W3C, A11y, Lighthouse, SEO Optimization  
-**Chat-Bots & Automation Platforms:** SendPulse, Make, Telegram Bots, Instagram & Facebook bots  
-**Backend & Automation (In Progress):** Python, FastAPI, PostgreSQL, SQL, Automation Systems, Telegram Bots, Webhooks
+### 📐 Core Principles
+* **Fault Tolerance First:** Implementing strict error handling and data-flow validation to ensure stable process performance.
+* **Logic Before Execution:** Thorough workflow auditing and precise requirements management before building.
 
 ---
 
 <!--
-Currently expanding into backend development and automation systems.
-⚙️ Learning backend development and automation systems (Python, APIs, databases)
 ### 🌐 Find me online
-[⌨️ CodePen](https://codepen.io/anzhelikaspekter)
-[🌍 Website](https://spekter.solutions)  
-[🎨 Behance](https://www.behance.net/anzhelikaspekter)  
-[🟣 Dribbble](https://dribbble.com/anzhelikaspekter)  
-[✍️ Medium](https://medium.com/@anzhelikaspekter)  
-[💬 Telegram](https://t.me/anzhelikaspekter)  
-[💎 Patreon](https://patreon.com/anzhelikaspekter)
-[📸 Instagram](https://instagram.com/anzhelikaspekter)  
-[📌 Pinterest](https://pinterest.com/anzhelikaspekter)  
+[CodePen](https://codepen.io/anzhelikaspekter)
+[Website](https://spekter.solutions)  
+[Medium](https://medium.com/@anzhelikaspekter)  
+[Telegram](https://t.me/anzhelikaspekter)  
+[Patreon](https://patreon.com/anzhelikaspekter)
+[Instagram](https://instagram.com/anzhelikaspekter)  
+[Pinterest](https://pinterest.com/anzhelikaspekter)  
 -->
 
 ### 📊 GitHub Metrics
@@ -50,8 +35,7 @@ Currently expanding into backend development and automation systems.
 
 ---
 
-### 🤝 Open for collaboration
-If you’re looking for a developer to build functional, aesthetic and optimized web experiences — feel free to reach out.
-
-📧 **[@anzhelikaspekter](https://t.me/anzhelikaspekter)**
+### 📬 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/anzhelikaspekter/)
+* [Telegram Channel](https://t.me/flowautomator)
 
