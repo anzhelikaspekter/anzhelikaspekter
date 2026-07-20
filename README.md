@@ -6,10 +6,10 @@
 
 ## About Me
 
-I am an **AI & Automation Integrator** specializing in designing custom autonomous workflows, integrating LLMs, and building interactive Telegram-based applications. I bridge the gap between process logic and robust backend/frontend execution, optimizing operations for digital professionals, content teams, and micro- and small-businesses.
+#### I am an **AI & Automation Integrator** specializing in designing custom autonomous workflows, integrating LLMs, and building interactive Telegram-based applications. I bridge the gap between process logic and robust backend/frontend execution, optimizing operations for digital professionals, content teams, and micro- and small-businesses.
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🧰 Tech Stack & Arsenal
 
 ### Automation & Integration Core
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
@@ -47,7 +47,7 @@ I am an **AI & Automation Integrator** specializing in designing custom autonomo
 
 ---
 
-## 📐 Core Principles
+## 🛠️ Core Expertise & Workflow Architecture
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./principles-dark.svg">
