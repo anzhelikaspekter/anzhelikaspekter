@@ -6,8 +6,7 @@
 
 ## About Me
 
-I bridge the gap between business operational logic and robust technical execution. My focus is engineering fault-tolerant workflows, scalable digital products, and custom Telegram Mini Apps (TMA).
-
+I am an **AI & Automation Integrator** specializing in designing custom autonomous workflows, integrating LLMs, and building interactive Telegram-based applications. I bridge the gap between process logic and robust backend/frontend execution, optimizing operations for digital professionals, content teams, and micro- and small-businesses.
 ---
 
 ## 🛠️ Tech Stack & Arsenal
