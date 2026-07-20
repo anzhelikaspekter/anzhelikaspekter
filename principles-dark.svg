@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1156 320" width="1156" height="320" fill="none">
+  <style>
+    .mono { font-family: monospace; }
+  </style>
+
+  <!-- ГЛАВНАЯ ПОДЛОЖКА (Тёмное матовое стекло, как в оригинале) -->
+  <rect x="24" y="24" width="1108" height="272" rx="15" fill="rgba(13,16,23,0.85)"
+    stroke="rgba(212,255,0,0.12)" stroke-width="1" />
+
+  <!-- Шапка окна -->
+  <rect x="24" y="24" width="1108" height="40" rx="15" fill="rgba(212,255,0,0.02)" />
+  <rect x="24" y="44" width="1108" height="20" fill="rgba(212,255,0,0.02)" />
+
+  <!-- Кнопки управления macOS -->
+  <circle cx="50" cy="44" r="6" fill="#ff5f57" />
+  <circle cx="70" cy="44" r="6" fill="#febc2e" />
+  <circle cx="90" cy="44" r="6" fill="#28c840" />
+
+  <!-- Заголовок вкладки -->
+  <text x="578" y="48" text-anchor="middle" class="mono" font-size="11.5" fill="#5b6272"
+    letter-spacing="1.5">anzhelika — core_principles.zsh</text>
+
+  <!-- Разделительная линия шапки -->
+  <line x1="24" y1="64" x2="1132" y2="64" stroke="rgba(212,255,0,0.12)" stroke-width="1" />
+
+  <!-- КОНТЕНТ БЛОКА 1 (ЛЕВАЯ СТОРОНА) -->
+  <g transform="translate(60, 0)">
+    <!-- Строка ввода -->
+    <text x="0" y="115" class="mono" font-size="14" fill="#5b6272">$ <tspan fill="#e2e8f0">
+      core-principle</tspan> <tspan fill="#d4ff00">--first</tspan></text>
+
+    <!-- Вывод команды с анимацией выезда как в оригинале -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+        begin="0.4s" fill="freeze" />
+      <text x="0" y="150" class="mono" font-size="18" font-weight="600" fill="#f8fafc">🛡️ Fault
+        Tolerance First</text>
+    </g>
+
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+        begin="0.8s" fill="freeze" />
+      <text x="0" y="185" class="mono" font-size="14" fill="#94a3b8">Implementing strict error
+        handling and data-flow</text>
+      <text x="0" y="210" class="mono" font-size="14" fill="#94a3b8">validation to ensure stable
+        process performance</text>
+      <text x="0" y="235" class="mono" font-size="14" fill="#94a3b8">under any architectural edge
+        cases.</text>
+    </g>
+  </g>
+
+  <!-- Вертикальный внутренний разделитель окон -->
+  <line x1="578" y1="90" x2="578" y2="260" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+
+  <!-- КОНТЕНТ БЛОКА 2 (ПРАВАЯ СТОРОНА) -->
+  <g transform="translate(618, 0)">
+    <!-- Строка ввода -->
+    <text x="0" y="115" class="mono" font-size="14" fill="#5b6272">$ <tspan fill="#e2e8f0">
+      core-principle</tspan> <tspan fill="#d4ff00">--second</tspan></text>
+
+    <!-- Вывод команды с анимацией выезда -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+        begin="1.2s" fill="freeze" />
+      <text x="0" y="150" class="mono" font-size="18" font-weight="600" fill="#f8fafc">🧠 Logic
+        Before Execution</text>
+    </g>
+
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+        begin="1.6s" fill="freeze" />
+      <text x="0" y="185" class="mono" font-size="14" fill="#94a3b8">Thorough workflow auditing,
+        edge-case mapping,</text>
+      <text x="0" y="210" class="mono" font-size="14" fill="#94a3b8">and precise integration
+        requirements management</text>
+      <text x="0" y="235" class="mono" font-size="14" fill="#94a3b8">before deploying code into
+        architecture.</text>
+    </g>
+  </g>
+</svg>
