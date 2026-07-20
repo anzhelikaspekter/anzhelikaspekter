@@ -1,0 +1,20 @@
+name: WakaTime stats
+
+on:
+  schedule:
+    # Запускать каждый день в 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Позволяет запускать вручную
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/wakatime-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "False" # Не показывать ОС (по желанию)
+          SHOW_PROJECTS: "True"
+          SHOW_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"
