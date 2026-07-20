@@ -12,7 +12,7 @@ I bridge the gap between business operational logic and robust technical executi
 
 ## 🛠️ Tech Stack & Arsenal
 
-#### Automation & Integration Core
+### Automation & Integration Core
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
 ![SendPulse](https://img.shields.io/badge/SendPulse-2088EE?style=for-the-badge&logo=sendpulse&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=json&logoColor=white)
@@ -21,7 +21,7 @@ I bridge the gap between business operational logic and robust technical executi
 
 <br>
 
-#### Frontend & TMA Development
+### Frontend & TMA Development
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A69A?style=for-the-badge&logo=telegram&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,7 +31,7 @@ I bridge the gap between business operational logic and robust technical executi
 
 <br>
 
-#### AI Infrastructure, Scripting & APIs
+### AI Infrastructure, Scripting & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-d4ff00?style=for-the-badge&logo=aiqfome&logoColor=black)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -40,7 +40,7 @@ I bridge the gap between business operational logic and robust technical executi
 
 <br>
 
-#### Infrastructure & Databases
+### Infrastructure & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,11 +52,11 @@ I bridge the gap between business operational logic and robust technical executi
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr style="border: none; background: none;">
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
+    <td width="50%" valign="top" style="border: 0 solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
       <h3>🛡️ Fault Tolerance First</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Implementing strict error handling and data-flow validation to ensure stable process performance.</p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
+    <td width="50%" valign="top" style="border: 0 solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
       <h3>🧠 Logic Before Execution</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Thorough workflow auditing and precise requirements management before building.</p>
     </td>
