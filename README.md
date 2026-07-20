@@ -8,9 +8,6 @@
 
 I bridge the gap between business operational logic and robust technical execution. My focus is engineering fault-tolerant workflows, scalable digital products, and custom Telegram Mini Apps (TMA).
 
-<br>
-<br>
-
 ---
 
 ## 🛠️ Tech Stack & Arsenal
@@ -49,9 +46,6 @@ I bridge the gap between business operational logic and robust technical executi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br>
-<br>
-
 ---
 
 ## 📐 Core Principles
@@ -68,9 +62,6 @@ I bridge the gap between business operational logic and robust technical executi
     </td>
   </tr>
 </table>
-
-<br>
-<br>
 
 ---
 
@@ -96,9 +87,6 @@ I bridge the gap between business operational logic and robust technical executi
     </td>
   </tr>
 </table>
-
-<br>
-<br>
 
 ---
 
