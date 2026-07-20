@@ -82,23 +82,23 @@
 
 ---
 
-<!--
-### 🌐 Find me online
-[CodePen](https://codepen.io/anzhelikaspekter)
-[Website](https://spekter.solutions)  
-[Medium](https://medium.com/@anzhelikaspekter)  
-[Telegram](https://t.me/anzhelikaspekter)  
-[Patreon](https://patreon.com/anzhelikaspekter)
-[Instagram](https://instagram.com/anzhelikaspekter)  
-[Pinterest](https://pinterest.com/anzhelikaspekter)  
--->
-
 ### 📊 GitHub Metrics
 ![Metrics](https://raw.githubusercontent.com/anzhelikaspekter/anzhelikaspekter/main/github-metrics.svg)
 
 ---
 
-### 📬 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/anzhelikaspekter/)
-* [Telegram Channel](https://t.me/flowautomator)
+### 📫 **How to reach me:** 
+
+#### Feel free to open an issue or connect with me if you need to structure your workflow logic and deploy tailored automation solutions.
+
+[![TELEGRAM](https://img.shields.io/badge/telegram-connect_me-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzhelikaspekter)
+[![TELEGRAM](https://img.shields.io/badge/telegram-channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator)
+[![TELEGRAM](https://img.shields.io/badge/telegram-bot-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator_bot)
+<br/>
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anzhelikaspekter)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flow,automator)
+[![TIKTOK](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@flow.automator)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/flow.automater)
+[![PINTEREST](https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/flowautomator)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/flow.automator)
 
