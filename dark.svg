@@ -475,7 +475,9 @@
     </g>
     <line x1="500" y1="290" x2="1120" y2="290" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
     <text x="500" y="320" class="mono" font-size="13.5" fill="#e2e8f0">$ skills --list</text>
-    <!-- 1. Make (Integromat) | Ширина = 155 -->
+
+    <!-- РЯД 1: Y = 340 -->
+    <!-- 1. Make (Integromat) | Ширина = 160 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze" />
       <rect x="500.0" y="340.0" width="160.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
@@ -486,219 +488,233 @@
       </circle>
       <text x="530.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">Make (Integromat)</text>
     </g>
-    <!-- 2. React | Ширина = 74 -> X = 504 + 155 + 10 = 669 -->
+    <!-- 2. SendPulse | Ширина = 110 -> X = 500 + 160 + 10 = 670 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.34s" fill="freeze" />
-      <rect x="670.0" y="340.0" width="74.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.3s" fill="freeze" />
+      <rect x="670.0" y="340.0" width="110.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="685.0" cy="354.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.34s"
+      <circle cx="689.0" cy="354.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.3s"
           repeatCount="indefinite" />
       </circle>
-      <text x="695.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">React</text>
+      <text x="700.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">SendPulse</text>
     </g>
-    <!-- 3. TypeScript | Ширина = 108 -> X = 669 + 74 + 10 = 753 -->
+    <!-- 3. React | Ширина = 74 -> X = 670 + 110 + 10 = 790 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.48s" fill="freeze" />
-      <rect x="754" y="340.0" width="108.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.4s" fill="freeze" />
+      <rect x="790.0" y="340.0" width="74.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="768.0" cy="354.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.48s"
+      <circle cx="805.0" cy="354.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.4s"
           repeatCount="indefinite" />
       </circle>
-      <text x="780.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">TypeScript</text>
+      <text x="815.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">React</text>
     </g>
-    <!-- 4. Tailwind CSS | Ширина = 122 -> X = 753 + 108 + 10 = 871 -->
+    <!-- 4. TypeScript | Ширина = 108 -> X = 790 + 74 + 10 = 874 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.62s" fill="freeze" />
-      <rect x="872.0" y="340.0" width="122.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" />
+      <rect x="874.0" y="340.0" width="108.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="887.0" cy="354.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.62s"
+      <circle cx="889.0" cy="354.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.5s"
           repeatCount="indefinite" />
       </circle>
-      <text x="897.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">Tailwind CSS</text>
+      <text x="900.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">TypeScript</text>
     </g>
-    <!-- 5. REST APIs | Ширина = 100 -> X = 871 + 122 + 10 = 1003 -->
+    <!-- 5. Tailwind CSS | Ширина = 122 -> X = 874 + 108 + 10 = 992 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.76s" fill="freeze" />
-      <rect x="1004.0" y="340.0" width="100.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.6s" fill="freeze" />
+      <rect x="992.0" y="340.0" width="122.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="1018.0" cy="354.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.76s"
+      <circle cx="1007.0" cy="354.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.6s"
           repeatCount="indefinite" />
       </circle>
-      <text x="1030.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">REST APIs</text>
+      <text x="1017.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">Tailwind CSS</text>
     </g>
-    <!-- 6. AI & LLM Integration | Ширина = 180 -->
+
+    <!-- РЯД 2: Y = 380 -->
+    <!-- 6. Redux | Ширина = 80 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9s" fill="freeze" />
-      <rect x="500.0" y="380.0" width="180.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.7s" fill="freeze" />
+      <rect x="500.0" y="380.0" width="80.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
       <circle cx="519.0" cy="394.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.7s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="530.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Redux</text>
+    </g>
+    <!-- 7. SVG | Ширина = 65 -> X = 500 + 80 + 10 = 590 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze" />
+      <rect x="590.0" y="380.0" width="65.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="609.0" cy="394.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.8s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="620.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">SVG</text>
+    </g>
+    <!-- 8. REST APIs | Ширина = 100 -> X = 590 + 65 + 10 = 665 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9s" fill="freeze" />
+      <rect x="665.0" y="380.0" width="100.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="680.0" cy="394.0" r="3" fill="#d4ff00">
         <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.9s"
           repeatCount="indefinite" />
       </circle>
-      <text x="530.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">AI &amp; LLM
-        Integration</text>
+      <text x="691.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">REST APIs</text>
     </g>
-    <!-- 7. Telegram WebApps API | Ширина = 181 -> X = 504 + 180 + 10 = 694 -->
+    <!-- 9. Webhooks | Ширина = 105 -> X = 665 + 100 + 10 = 775 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.04s" fill="freeze" />
-      <rect x="690.0" y="380.0" width="181.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.0s" fill="freeze" />
+      <rect x="775.0" y="380.0" width="105.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="708.0" cy="394.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.04s"
+      <circle cx="790.0" cy="394.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.0s"
           repeatCount="indefinite" />
       </circle>
-      <text x="719.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Telegram WebApps API</text>
+      <text x="801.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Webhooks</text>
     </g>
-    <!-- 8. Process Architecture | Ширина = 180 -> X = 694 + 181 + 10 = 885 -->
+    <!-- 10. Data Integrity | Ширина = 135 -> X = 775 + 105 + 10 = 890 -->
     <g class="pill" opacity="0">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.18s" fill="freeze" />
-      <rect x="881.0" y="380.0" width="180.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.1s" fill="freeze" />
+      <rect x="890.0" y="380.0" width="135.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
         stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-      <circle cx="898.0" cy="394.0" r="3" fill="#d4ff00">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.18s"
+      <circle cx="905.0" cy="394.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.1s"
           repeatCount="indefinite" />
       </circle>
-      <text x="910.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Process Architecture</text>
+      <text x="916.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Data Integrity</text>
     </g>
-    <line x1="500" y1="430" x2="1120" y2="430" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-    <!-- 1. GitHub -->
-    <a xlink:href="https://github.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(524.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.2s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="3.6s" begin="4.2s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M216.5 362.5c-66-8-112.5-55.5-112.5-117 0-25 9-52 24-70-6.5-16.5-5.5-51.5 2-66 20-2.5 47 8 63 22.5 19-6 39-9 63.5-9s44.5 3 62.5 8.5c15.5-14 43-24.5 63-22 7 13.5 8 48.5 1.5 65.5 16 19 24.5 44.5 24.5 70.5 0 61.5-46.5 108-113.5 116.5 17 11 28.5 35 28.5 62.5l0 52C323 491.5 335.5 500 350.5 494 441 459.5 512 369 512 257 512 115.5 397 0 255.5 0S0 115.5 0 257c0 111 70.5 203 165.5 237.5 13.5 5 26.5-4 26.5-17.5l0-40c-7 3-16 5-24 5-33 0-52.5-18-66.5-51.5-5.5-13.5-11.5-21.5-23-23-6-.5-8-3-8-6 0-6 10-10.5 20-10.5 14.5 0 27 9 40 27.5 10 14.5 20.5 21 33 21s20.5-4.5 32-16c8.5-8.5 15-16 21-21z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>GitHub</title>
-      </g>
-    </a>
-    <!-- 2. LinkedIn -->
-    <a xlink:href="https://www.linkedin.com/in/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(576.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.3s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.0s" begin="4.3s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M100.3 448l-92.9 0 0-299.1 92.9 0 0 299.1zM53.8 108.1C24.1 108.1 0 83.5 0 53.8 0 39.5 5.7 25.9 15.8 15.8s23.8-15.8 38-15.8 27.9 5.7 38 15.8 15.8 23.8 15.8 38c0 29.7-24.1 54.3-53.8 54.3zM447.9 448l-92.7 0 0-145.6c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7l0 148.1-92.8 0 0-299.1 89.1 0 0 40.8 1.3 0c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3l0 164.3-.1 0z"
-          transform="scale(0.042) translate(-224, -224)"
-          fill="#d4ff00" />
-        <title>LinkedIn</title>
-      </g>
-    </a>
-    <!-- 3. Telegram -->
-    <a xlink:href="https://t.me/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(628.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.4s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.4s" begin="4.4s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496zM371 176.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7 .2-.7 .3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2 .5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3 .6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6 .5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7 .5 3.2 .6 6.5 .4 9.8z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>Telegram</title>
-      </g>
-    </a>
-    <!-- 4. Instagram -->
-    <a xlink:href="https://instagram.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(680.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="3.8s" begin="4.5s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M224.3 141a115 115 0 1 0 -.6 230 115 115 0 1 0 .6-230zm-.6 40.4a74.6 74.6 0 1 1 .6 149.2 74.6 74.6 0 1 1 -.6-149.2zm93.4-45.1a26.8 26.8 0 1 1 53.6 0 26.8 26.8 0 1 1 -53.6 0zm129.7 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM399 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>Instagram</title>
-      </g>
-    </a>
-    <!-- 5. TikTok -->
-    <a xlink:href="https://tiktok.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(732.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.6s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.2s" begin="4.6s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M448.5 209.9c-44 .1-87-13.6-122.8-39.2l0 178.7c0 33.1-10.1 65.4-29 92.6s-45.6 48-76.6 59.6-64.8 13.5-96.9 5.3-60.9-25.9-82.7-50.8-35.3-56-39-88.9 2.9-66.1 18.6-95.2 40-52.7 69.6-67.7 62.9-20.5 95.7-16l0 89.9c-15-4.7-31.1-4.6-46 .4s-27.9 14.6-37 27.3-14 28.1-13.9 43.9 5.2 31 14.5 43.7 22.4 22.1 37.4 26.9 31.1 4.8 46-.1 28-14.4 37.2-27.1 14.2-28.1 14.2-43.8l0-349.4 88 0c-.1 7.4 .6 14.9 1.9 22.2 3.1 16.3 9.4 31.9 18.7 45.7s21.3 25.6 35.2 34.6c19.9 13.1 43.2 20.1 67 20.1l0 87.4z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>TikTok</title>
-      </g>
-    </a>
-    <!-- 6. Threads -->
-    <a xlink:href="https://threads.net/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(784.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.7s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.6s" begin="4.7s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M340.8 238c-.6-69.6-38.3-111.5-102-111.5-42.5 0-78.3 19.2-97.1 49.9l41.2 28.7c10.7-16.8 25.4-30.8 52.4-30.8 30.5 0 46.3 17 50.8 48.5-14.7-2.3-29.5-3.5-44.6-3.5-82.4 0-121.1 37.3-121.1 86.6s38.8 79.7 95.9 79.7c62.7 0 100.1-42.2 115.4-94.5 15.9 7.2 26.9 24 26.9 49.3 0 67.6-78 104.5-144.1 104.5-97.5 0-161.3-64-161.3-168.2 0-127.6 84.3-209.4 197.6-209.4 76 0 113.6 33.4 139.2 78.1L432 115.9c-27.8-58-89.9-99.5-183.1-99.5-148.5 0-249.5 105.4-249.5 258.2 0 139.8 98.9 220.9 216.7 220.9 97.4 0 195.8-56.8 195.8-154 0-50.8-29.2-84.5-71.2-103.5zM214.4 334.9c-21.5 0-40.4-10.2-40.4-29 0-29.6 36.4-38.6 72-38.6 13.5 0 26.8 .9 38.5 3.5-8.4 38.5-33.4 64.2-70 64.2l0 0z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>Threads</title>
-      </g>
-    </a>
-    <!-- 7. YouTube -->
-    <a xlink:href="https://youtube.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(836.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.8s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="3.9s" begin="4.8s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M549.7 124.1C543.5 100.4 524.9 81.8 501.4 75.5 458.9 64 288.1 64 288.1 64S117.3 64 74.7 75.5C51.2 81.8 32.7 100.4 26.4 124.1 15 167 15 256.4 15 256.4s0 89.4 11.4 132.3c6.3 23.6 24.8 41.5 48.3 47.8 42.6 11.5 213.4 11.5 213.4 11.5s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zM232.2 337.6l0-162.4 142.7 81.2-142.7 81.2z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>YouTube</title>
-      </g>
-    </a>
-    <!-- 8. Pinterest -->
-    <a xlink:href="https://pinterest.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(888.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.9s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.3s" begin="4.9s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M204 6.5c-102.6 0-204 68.4-204 179.1 0 70.4 39.6 110.4 63.6 110.4 9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8 0-99.3-85.8-164.1-180-164.1z"
-          transform="scale(0.04) translate(-256, -256)"
-          fill="#d4ff00" />
-        <title>Pinterest</title>
-      </g>
-    </a>
-    <!-- 9. Facebook -->
-    <a xlink:href="https://facebook.com/" target="_blank">
-      <g class="icon" opacity="0" transform="translate(940.0,462)">
-        <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.0s" fill="freeze" />
-        <animateTransform attributeName="transform" type="translate" additive="sum"
-          values="0,0; 0,-3; 0,0" dur="4.5s" begin="5.0s" repeatCount="indefinite" />
-        <circle class="icon-ring" cx="0" cy="0" r="20" fill="rgba(255,255,255,0.03)"
-          stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-        <path
-          d="M80 299.3l0 212.7 116 0 0-212.7 86.5 0 18-97.8-104.5 0 0-34.6c0-51.7 20.3-71.5 72.7-71.5 16.3 0 29.4 .4 37 1.2l0-88.7C291.4 4 256.4 0 236.2 0 129.3 0 80 50.5 80 159.4l0 42.1-66 0 0 97.8 66 0z"
-          transform="scale(0.037) translate(-170, -256)"
-          fill="#d4ff00" />
-        <title>Facebook</title>
-      </g>
-    </a>
+
+    <!-- РЯД 3: Y = 420 -->
+    <!-- 11. Python | Ширина = 85 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.2s" fill="freeze" />
+      <rect x="500.0" y="420.0" width="85.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="519.0" cy="434.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.2s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="530.0" y="438" class="mono" font-size="11.6" fill="#f8fafc">Python</text>
+    </g>
+    <!-- 12. Telegram WebApps API | Ширина = 181 -> X = 500 + 85 + 10 = 595 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.3s" fill="freeze" />
+      <rect x="595.0" y="420.0" width="181.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="613.0" cy="434.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.3s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="624.0" y="438" class="mono" font-size="11.6" fill="#f8fafc">Telegram WebApps API</text>
+    </g>
+    <!-- 13. Process Architecture | Ширина = 180 -> X = 595 + 181 + 10 = 786 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.4s" fill="freeze" />
+      <rect x="786.0" y="420.0" width="180.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="803.0" cy="434.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.4s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="814.0" y="438" class="mono" font-size="11.6" fill="#f8fafc">Process Architecture</text>
+    </g>
+
+    <!-- РЯД 4: Y = 460 -->
+    <!-- 14. Autonomous Agents | Ширина = 165 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze" />
+      <rect x="500.0" y="460.0" width="165.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="519.0" cy="474.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.5s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="530.0" y="478" class="mono" font-size="11.6" fill="#f8fafc">Autonomous Agents</text>
+    </g>
+    <!-- 15. OpenAI API | Ширина = 115 -> X = 500 + 165 + 10 = 675 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.6s" fill="freeze" />
+      <rect x="675.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="691.0" cy="474.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.6s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="702.0" y="478" class="mono" font-size="11.6" fill="#f8fafc">OpenAI API</text>
+    </g>
+    <!-- 16. Claude API | Ширина = 115 -> X = 675 + 115 + 10 = 800 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.7s" fill="freeze" />
+      <rect x="800.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="816.0" cy="474.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.7s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="827.0" y="478" class="mono" font-size="11.6" fill="#f8fafc">Claude API</text>
+    </g>
+    <!-- 17. Gemini API | Ширина = 115 -> X = 800 + 115 + 10 = 925 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.8s" fill="freeze" />
+      <rect x="925.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="941.0" cy="474.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.8s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="952.0" y="478" class="mono" font-size="11.6" fill="#f8fafc">Gemini API</text>
+    </g>
+
+    <!-- РЯД 5: Y = 500 -->
+    <!-- 18. Git | Ширина = 60 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.9s" fill="freeze" />
+      <rect x="500.0" y="500.0" width="60.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="519.0" cy="514.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.9s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="530.0" y="518" class="mono" font-size="11.6" fill="#f8fafc">Git</text>
+    </g>
+    <!-- 19. Docker | Ширина = 85 -> X = 500 + 60 + 10 = 570 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.0s" fill="freeze" />
+      <rect x="570.0" y="500.0" width="85.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="589.0" cy="514.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.0s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="600.0" y="518" class="mono" font-size="11.6" fill="#f8fafc">Docker</text>
+    </g>
+    <!-- 20. PostgreSQL | Ширина = 115 -> X = 570 + 85 + 10 = 665 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.1s" fill="freeze" />
+      <rect x="665.0" y="500.0" width="115.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="680.0" cy="514.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.1s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="691.0" y="518" class="mono" font-size="11.6" fill="#f8fafc">PostgreSQL</text>
+    </g>
+    <!-- 21. MongoDB | Ширина = 105 -> X = 665 + 115 + 10 = 790 -->
+    <g class="pill" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.2s" fill="freeze" />
+      <rect x="790.0" y="500.0" width="105.0" height="30" rx="15" fill="rgba(255,255,255,0.03)"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+      <circle cx="805.0" cy="514.0" r="3" fill="#d4ff00">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.2s"
+          repeatCount="indefinite" />
+      </circle>
+      <text x="815.0" y="518" class="mono" font-size="11.6" fill="#f8fafc">MongoDB</text>
+    </g>
   </g>
 </svg>
