@@ -50,18 +50,7 @@ I bridge the gap between business operational logic and robust technical executi
 
 ## 📐 Core Principles
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr style="border: none; background: none;">
-    <td width="50%" valign="top" style="border: 0 solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
-      <h3>🛡️ Fault Tolerance First</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Implementing strict error handling and data-flow validation to ensure stable process performance.</p>
-    </td>
-    <td width="50%" valign="top" style="border: 0 solid #1e293b; border-radius: 8px; padding: 15px; background: #0f172a;">
-      <h3>🧠 Logic Before Execution</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Thorough workflow auditing and precise requirements management before building.</p>
-    </td>
-  </tr>
-</table>
+![Core Principles](core-principles.svg)
 
 ---
 
