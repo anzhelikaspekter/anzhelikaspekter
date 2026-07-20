@@ -4,12 +4,12 @@
   </style>
 
   <!-- ГЛАВНАЯ ПОДЛОЖКА (Светлое матовое стекло) -->
-  <rect x="24" y="24" width="1108" height="272" rx="15" fill="rgba(248,250,252,0.90)"
+  <rect x="24" y="24" width="1180" height="272" rx="15" fill="rgba(248,250,252,0.90)"
     stroke="rgba(79,70,229,0.12)" stroke-width="1" />
 
   <!-- Шапка окна -->
-  <rect x="24" y="24" width="1108" height="40" rx="15" fill="rgba(79,70,229,0.02)" />
-  <rect x="24" y="44" width="1108" height="20" fill="rgba(79,70,229,0.02)" />
+  <rect x="24" y="24" width="1180" height="40" rx="15" fill="rgba(79,70,229,0.02)" />
+  <rect x="24" y="44" width="1180" height="20" fill="rgba(79,70,229,0.02)" />
 
   <!-- Кнопки управления macOS -->
   <circle cx="50" cy="44" r="6" fill="#ff5f56" />
@@ -21,7 +21,7 @@
     letter-spacing="1.5">anzhelika — core_principles.zsh</text>
 
   <!-- Разделительная линия шапки -->
-  <line x1="24" y1="64" x2="1132" y2="64" stroke="rgba(79,70,229,0.12)" stroke-width="1" />
+  <line x1="24" y1="64" x2="1180" y2="64" stroke="rgba(79,70,229,0.12)" stroke-width="1" />
 
   <!-- КОНТЕНТ БЛОКА 1 (ЛЕВАЯ СТОРОНА) -->
   <g transform="translate(60, 0)">

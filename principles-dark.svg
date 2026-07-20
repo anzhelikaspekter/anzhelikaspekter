@@ -4,12 +4,12 @@
   </style>
 
   <!-- ГЛАВНАЯ ПОДЛОЖКА (Тёмное матовое стекло, как в оригинале) -->
-  <rect x="24" y="24" width="1108" height="272" rx="15" fill="rgba(13,16,23,0.85)"
+  <rect x="24" y="24" width="1180" height="272" rx="15" fill="rgba(13,16,23,0.85)"
     stroke="rgba(212,255,0,0.12)" stroke-width="1" />
 
   <!-- Шапка окна -->
-  <rect x="24" y="24" width="1108" height="40" rx="15" fill="rgba(212,255,0,0.02)" />
-  <rect x="24" y="44" width="1108" height="20" fill="rgba(212,255,0,0.02)" />
+  <rect x="24" y="24" width="1180" height="40" rx="15" fill="rgba(212,255,0,0.02)" />
+  <rect x="24" y="44" width="1180" height="20" fill="rgba(212,255,0,0.02)" />
 
   <!-- Кнопки управления macOS -->
   <circle cx="50" cy="44" r="6" fill="#ff5f57" />
