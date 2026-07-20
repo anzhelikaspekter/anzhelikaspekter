@@ -25,23 +25,32 @@ I bridge the gap between business operational logic and robust technical executi
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG_Code-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
 
-#### AI Infrastructure, Scripting & Models
+#### AI Infrastructure, Scripting & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-d4ff00?style=for-the-badge&logo=aiqfome&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 #### Infrastructure & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&width=20)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📐 Core Principles
-* **Fault Tolerance First:** Implementing strict error handling and data-flow validation to ensure stable process performance.
-* **Logic Before Execution:** Thorough workflow auditing and precise requirements management before building.
+## 📐 Core Principles
+
+<details>
+<summary>🛡️ <b>Fault Tolerance First</b></summary>
+<br>
+Implementing strict error handling and data-flow validation to ensure stable process performance.
+</details>
+
+<details>
+<summary>🧠 <b>Logic Before Execution</b></summary>
+<br>
+Thorough workflow auditing and precise requirements management before building.
+</details>
 
 
 ## 📊 GitHub Stats & Grind
