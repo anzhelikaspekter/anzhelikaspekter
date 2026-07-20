@@ -90,7 +90,7 @@ Selected autonomous logic & automation architecture case studies:
 ---
 
 <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=anzhelikaspekter&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&icon_color=d4ff00&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anzhelikaspekter&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&icon_color=d4ff00&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats" />
 </p>
 
 <p>
@@ -100,5 +100,7 @@ Selected autonomous logic & automation architecture case studies:
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false" width="100%" alt="Top Languages" />
 </p>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
 
 ![Metrics](https://raw.githubusercontent.com/anzhelikaspekter/anzhelikaspekter/main/github-metrics.svg)
