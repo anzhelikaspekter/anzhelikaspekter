@@ -50,7 +50,11 @@ I bridge the gap between business operational logic and robust technical executi
 
 ## 📐 Core Principles
 
-![Core Principles](core-principles.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./principles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./principles-light.svg">
+  <img alt="Core Principles Terminal" src="./principles-dark.svg">
+</picture>
 
 ---
 
