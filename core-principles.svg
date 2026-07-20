@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 160" width="890" height="160" fill="none">
+  <style>
+    .card-bg { fill: #0c0f17; stroke: url(#border-grad); transition: fill 0.3s; }
+    .title-text { fill: #d4ff00; font-family: system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 700; }
+    .body-text { fill: #f8fafc; font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill-opacity: 0.9; }
+    
+    @media (prefers-color-scheme: light) {
+      .card-bg { fill: #f1f5f9; stroke: url(#border-grad-light); }
+      .title-text { fill: #0f172a; }
+      .body-text { fill: #334155; fill-opacity: 1; }
+    }
+  </style>
+
+  <defs>
+    <!-- Dark Theme Border Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4ff00"/>
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#d4ff00"/>
+    </linearGradient>
+
+    <!-- Light Theme Border Gradient -->
+    <linearGradient id="border-grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Fault Tolerance First -->
+  <g transform="translate(0, 0)">
+    <rect class="card-bg" x="1" y="1" width="434" height="158" rx="12" stroke-width="1.5"/>
+    <text class="title-text" x="24" y="42">🛡️ Fault Tolerance First</text>
+    <text class="body-text" x="24" y="76">Implementing strict error handling and data-flow</text>
+    <text class="body-text" x="24" y="98">validation to ensure stable process performance</text>
+    <text class="body-text" x="24" y="120">under any edge cases.</text>
+  </g>
+
+  <!-- Card 2: Logic Before Execution -->
+  <g transform="translate(456, 0)">
+    <rect class="card-bg" x="1" y="1" width="434" height="158" rx="12" stroke-width="1.5"/>
+    <text class="title-text" x="24" y="42">🧠 Logic Before Execution</text>
+    <text class="body-text" x="24" y="76">Thorough workflow auditing, edge-case mapping,</text>
+    <text class="body-text" x="24" y="98">and precise requirements management before</text>
+    <text class="body-text" x="24" y="120">writing a single line of code.</text>
+  </g>
+</svg>
