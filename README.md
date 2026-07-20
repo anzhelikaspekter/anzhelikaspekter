@@ -8,15 +8,11 @@
 
 I bridge the gap between business operational logic and robust technical execution. My focus is engineering fault-tolerant workflows, scalable digital products, and custom Telegram Mini Apps (TMA).
 
-### 🛠️ Tech Stack & Tools
-* **Automation & Integration Core:** Make (Integromat), REST APIs, Webhooks, Advanced Error/Fault Handling
-* **Frontend & Custom Interfaces:** React, TypeScript, Tailwind CSS, Telegram WebApps API
-* **AI Infrastructure:** LLM Integrations (OpenAI, Anthropic APIs), Autonomous AI Agents
-
 ## 🛠️ Tech Stack & Arsenal
 
 #### Automation & Integration Core
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+![SendPulse](https://img.shields.io/badge/SendPulse-2088EE?style=for-the-badge&logo=sendpulse&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=json&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white)
 ![Data Integrity](https://img.shields.io/badge/Fault_Tolerance-ED1C24?style=for-the-badge&logo=securityscorecard&logoColor=white)
@@ -26,12 +22,22 @@ I bridge the gap between business operational logic and robust technical executi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG_Code-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
 
-#### AI Infrastructure & Logic
+#### AI Infrastructure, Scripting & Models
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-d4ff00?style=for-the-badge&logo=aiqfome&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+#### Infrastructure & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&width=20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📐 Core Principles
 * **Fault Tolerance First:** Implementing strict error handling and data-flow validation to ensure stable process performance.
