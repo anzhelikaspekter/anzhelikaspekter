@@ -62,7 +62,7 @@ Selected autonomous logic & automation architecture case studies:
 🔗 **Deterministic Sales Qualifier** [Make + CRM + LLM]: Deconstructed unstructured customer intent logs into deterministic logical rules, using LLMs to profile, budget, and route qualified direct inquiries to CRM pipelines prior to human contact.
 🔗 **PR Alert & Sentiment Monitor** [Make + LLM Semantic Parsing]: End-to-end webhook architecture tracking global brand mentions, processing incoming payloads with context-aware sentiment analysis, and instantly triggering critical alerts via Telegram for negative coverage.
 
-*View the full project archive on [my Repositories](https://github.com/твой_ник?tab=repositories)!*
+*View the full project archive on [my Repositories](https://github.com/anzhelikaspekter?tab=repositories)!*
 
 ---
 
