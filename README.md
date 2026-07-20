@@ -66,11 +66,11 @@ Selected autonomous logic & automation architecture case studies:
 
 ---
 
-## 🔮 My Mission & Endgame
-
-*   ⏳ **Grinding Now:** Designing structured, deterministic data handling logic for digital operations, creative agencies, and micro-business infrastructures. Deconstructing chaotic manual tasks into auditable, clean technical requirements.
-*   🏆 **Ultimate Quest:** Constructing high-fidelity, autonomous ecosystems [Logic Design + AI Processing + Telegram User Interface] that enable business operators to shift entirely away from administrative workflows.
-*   🗺️ **Side Quests:** Developing robust, production-grade fail-safe logic across *Make* and *n8n* nodes to insulate workflows from external API deprecations and ensure uninterrupted execution.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./mission-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./mission-light.svg">
+  <img alt="My Mission & Endgame Terminal" src="./mission-dark.svg" width="100%">
+</picture>
 
 ---
 
