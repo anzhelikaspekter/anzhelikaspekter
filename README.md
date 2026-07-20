@@ -89,18 +89,20 @@ Selected autonomous logic & automation architecture case studies:
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anzhelikaspekter&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&icon_color=d4ff00&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzhelikaspekter&theme=dark&background=0c0f17&title=d4ff00&text=f8fafc&fire=d4ff00&ring=d4ff00&border=1e293b&hide_border=false)](https://git.io/streak-stats)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anzhelikaspekter&theme=dark&background=0c0f17&title=d4ff00&text=f8fafc&fire=d4ff00&ring=d4ff00&border=1e293b&hide_border=false" width="75%" alt="GitHub Streak" />
-</p>
+[![Skill Bars](https://github-readme-skills.vercel.app/static/skills?username=anzhelikaspekter&skills=Make,React,TypeScript,Python&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b)](https://github.com/momeimtiaz/github-readme-skills)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false" width="100%" alt="Top Languages" />
-</p>
+[![Top Repos](https://github-stats-extended.vercel.app/api/top-repos/?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
+
+![](https://komarev.com/ghpvc/?username=anzhelikaspekter&background=0c0f17&color=d4ff00&style=for-the-badge)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anzhelikaspekter&theme=darkhub&margin-w=15&margin-h=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anzhelikaspekter&layout=compact&theme=dark&bg_color=0c0f17&title_color=d4ff00&text_color=f8fafc&border_color=1e293b&hide_border=false)](https://github.com/stats-organization/github-stats-extended)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anzhelikaspekter&bg_color=0c0f17&color=d4ff00&line=d4ff00&point=f8fafc&area=true&hide_border=false&border_color=1e293b)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Metrics](https://raw.githubusercontent.com/anzhelikaspekter/anzhelikaspekter/main/github-metrics.svg)
