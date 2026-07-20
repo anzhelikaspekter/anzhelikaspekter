@@ -369,14 +369,14 @@
     <!-- Разделительная линия между шапкой и рабочей зоной -->
     <line x1="468" y1="64" x2="1156" y2="64" stroke="rgba(91,33,182,0.12)" stroke-width="1" />
     <!-- Главное приветствие для светлой темы (Шрифт 400, Имя — жирный темный металлик 600) -->
-    <text x="500" y="122" class="mono sans" font-size="26" font-weight="400" fill="#0f172a">Hi <tspan
+    <text x="500" y="122" class="mono sans" font-size="26" font-weight="400" fill="#0f172a">Hi there <tspan
         fill="#be185d">👋</tspan> I&#8217;m <tspan fill="url(#darkMetalGrad)" font-weight="600">Angelika
       Spekter</tspan></text>
     <rect x="500" y="132" width="0" fill="none" />
     <g class="mono" font-size="17" fill="#5b21b6">
       <text x="500" y="155" fill="#5b6272" font-size="14">$ role:</text>
-      <!-- 1. Technical Product Manager -->
-      <text x="570" y="155" clip-path="url(#roleClip0)" opacity="0">Technical Product Manager <animate
+      <!-- 1. AI &amp; Automation Integrator -->
+      <text x="570" y="155" clip-path="url(#roleClip0)" opacity="0">AI &amp; Automation Integrator <animate
           attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.9;0.95;1" dur="16s"
           begin="0s" repeatCount="indefinite" />
       </text>
@@ -410,13 +410,13 @@
     </clipPath>
     <clipPath id="roleClip2">
       <rect x="570" y="130" height="30" width="0">
-        <animate attributeName="width" values="0;0;270;270;0;0" keyTimes="0;0.50;0.55;0.70;0.74;1"
+        <animate attributeName="width" values="0;0;275;275;0;0" keyTimes="0;0.50;0.55;0.70;0.74;1"
           dur="16s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="roleClip3">
       <rect x="570" y="130" height="30" width="0">
-        <animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0.75;0.80;0.95;0.99;1"
+        <animate attributeName="width" values="0;0;270;270;0;0" keyTimes="0;0.75;0.80;0.95;0.99;1"
           dur="16s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
@@ -472,51 +472,60 @@
       </a>
     </g>
     <line x1="500" y1="290" x2="1120" y2="290" stroke="rgba(15,23,42,0.08)" stroke-width="1" />
-<text x="500" y="320" class="mono" font-size="13.5" fill="#5b21b6">$ skills --list</text>
-    
+    <text x="500" y="320" class="mono" font-size="13.5" fill="#5b6272">$ skills --list</text>
     <!-- РЯД 1: Y = 340 -->
     <!-- 1. Make (Integromat) | Ширина = 160 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze" />
-      <rect x="500.0" y="340.0" width="160.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="500.0" y="340.0" width="160.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="519.0" cy="354.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.2s"
+          repeatCount="indefinite" />
       </circle>
       <text x="530.0" y="358" class="mono" font-size="11.6" fill="#0f172a">Make (Integromat)</text>
     </g>
     <!-- 2. SendPulse | Ширина = 110 -> X = 500 + 160 + 10 = 670 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.3s" fill="freeze" />
-      <rect x="670.0" y="340.0" width="110.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="670.0" y="340.0" width="110.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="689.0" cy="354.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.3s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.3s"
+          repeatCount="indefinite" />
       </circle>
       <text x="700.0" y="358" class="mono" font-size="11.6" fill="#0f172a">SendPulse</text>
     </g>
     <!-- 3. React | Ширина = 74 -> X = 670 + 110 + 10 = 790 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.4s" fill="freeze" />
-      <rect x="790.0" y="340.0" width="74.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="790.0" y="340.0" width="74.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="805.0" cy="354.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.4s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.4s"
+          repeatCount="indefinite" />
       </circle>
       <text x="815.0" y="358" class="mono" font-size="11.6" fill="#0f172a">React</text>
     </g>
     <!-- 4. TypeScript | Ширина = 108 -> X = 790 + 74 + 10 = 874 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" />
-      <rect x="874.0" y="340.0" width="108.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="874.0" y="340.0" width="108.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="889.0" cy="354.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.5s"
+          repeatCount="indefinite" />
       </circle>
       <text x="900.0" y="358" class="mono" font-size="11.6" fill="#0f172a">TypeScript</text>
     </g>
     <!-- 5. Tailwind CSS | Ширина = 122 -> X = 874 + 108 + 10 = 992 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.6s" fill="freeze" />
-      <rect x="992.0" y="340.0" width="122.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="992.0" y="340.0" width="122.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="1007.0" cy="354.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.6s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.6s"
+          repeatCount="indefinite" />
       </circle>
       <text x="1017.0" y="358" class="mono" font-size="11.6" fill="#0f172a">Tailwind CSS</text>
     </g>
@@ -525,45 +534,55 @@
     <!-- 6. Redux | Ширина = 80 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.7s" fill="freeze" />
-      <rect x="500.0" y="380.0" width="80.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="500.0" y="380.0" width="80.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="519.0" cy="394.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.7s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.7s"
+          repeatCount="indefinite" />
       </circle>
       <text x="530.0" y="398" class="mono" font-size="11.6" fill="#0f172a">Redux</text>
     </g>
     <!-- 7. SVG | Ширина = 65 -> X = 500 + 80 + 10 = 590 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze" />
-      <rect x="590.0" y="380.0" width="65.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="590.0" y="380.0" width="65.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="609.0" cy="394.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.8s"
+          repeatCount="indefinite" />
       </circle>
       <text x="620.0" y="398" class="mono" font-size="11.6" fill="#0f172a">SVG</text>
     </g>
     <!-- 8. REST APIs | Ширина = 100 -> X = 590 + 65 + 10 = 665 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9s" fill="freeze" />
-      <rect x="665.0" y="380.0" width="100.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="665.0" y="380.0" width="100.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="680.0" cy="394.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.9s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="3.9s"
+          repeatCount="indefinite" />
       </circle>
       <text x="691.0" y="398" class="mono" font-size="11.6" fill="#0f172a">REST APIs</text>
     </g>
     <!-- 9. Webhooks | Ширина = 105 -> X = 665 + 100 + 10 = 775 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.0s" fill="freeze" />
-      <rect x="775.0" y="380.0" width="105.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="775.0" y="380.0" width="105.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="790.0" cy="394.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.0s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.0s"
+          repeatCount="indefinite" />
       </circle>
       <text x="801.0" y="398" class="mono" font-size="11.6" fill="#0f172a">Webhooks</text>
     </g>
     <!-- 10. Data Integrity | Ширина = 135 -> X = 775 + 105 + 10 = 890 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.1s" fill="freeze" />
-      <rect x="890.0" y="380.0" width="135.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="890.0" y="380.0" width="135.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="905.0" cy="394.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.1s"
+          repeatCount="indefinite" />
       </circle>
       <text x="916.0" y="398" class="mono" font-size="11.6" fill="#0f172a">Data Integrity</text>
     </g>
@@ -572,27 +591,33 @@
     <!-- 11. Python | Ширина = 85 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.2s" fill="freeze" />
-      <rect x="500.0" y="420.0" width="85.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="500.0" y="420.0" width="85.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="519.0" cy="434.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.2s"
+          repeatCount="indefinite" />
       </circle>
       <text x="530.0" y="438" class="mono" font-size="11.6" fill="#0f172a">Python</text>
     </g>
     <!-- 12. Telegram WebApps API | Ширина = 181 -> X = 500 + 85 + 10 = 595 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.3s" fill="freeze" />
-      <rect x="595.0" y="420.0" width="181.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="595.0" y="420.0" width="181.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="613.0" cy="434.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.3s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.3s"
+          repeatCount="indefinite" />
       </circle>
       <text x="624.0" y="438" class="mono" font-size="11.6" fill="#0f172a">Telegram WebApps API</text>
     </g>
     <!-- 13. Process Architecture | Ширина = 180 -> X = 595 + 181 + 10 = 786 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.4s" fill="freeze" />
-      <rect x="786.0" y="420.0" width="180.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="786.0" y="420.0" width="180.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="803.0" cy="434.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.4s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.4s"
+          repeatCount="indefinite" />
       </circle>
       <text x="814.0" y="438" class="mono" font-size="11.6" fill="#0f172a">Process Architecture</text>
     </g>
@@ -601,36 +626,44 @@
     <!-- 14. Autonomous Agents | Ширина = 165 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze" />
-      <rect x="500.0" y="460.0" width="165.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="500.0" y="460.0" width="165.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="519.0" cy="474.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.5s"
+          repeatCount="indefinite" />
       </circle>
       <text x="530.0" y="478" class="mono" font-size="11.6" fill="#0f172a">Autonomous Agents</text>
     </g>
     <!-- 15. OpenAI API | Ширина = 115 -> X = 500 + 165 + 10 = 675 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.6s" fill="freeze" />
-      <rect x="675.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="675.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="691.0" cy="474.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.6s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.6s"
+          repeatCount="indefinite" />
       </circle>
       <text x="702.0" y="478" class="mono" font-size="11.6" fill="#0f172a">OpenAI API</text>
     </g>
     <!-- 16. Claude API | Ширина = 115 -> X = 675 + 115 + 10 = 800 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.7s" fill="freeze" />
-      <rect x="800.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="800.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="816.0" cy="474.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.7s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.7s"
+          repeatCount="indefinite" />
       </circle>
       <text x="827.0" y="478" class="mono" font-size="11.6" fill="#0f172a">Claude API</text>
     </g>
     <!-- 17. Gemini API | Ширина = 115 -> X = 800 + 115 + 10 = 925 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.8s" fill="freeze" />
-      <rect x="925.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="925.0" y="460.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="941.0" cy="474.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.8s"
+          repeatCount="indefinite" />
       </circle>
       <text x="952.0" y="478" class="mono" font-size="11.6" fill="#0f172a">Gemini API</text>
     </g>
@@ -639,36 +672,44 @@
     <!-- 18. Git | Ширина = 60 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.9s" fill="freeze" />
-      <rect x="500.0" y="500.0" width="60.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="500.0" y="500.0" width="60.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="519.0" cy="514.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.9s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="4.9s"
+          repeatCount="indefinite" />
       </circle>
       <text x="530.0" y="518" class="mono" font-size="11.6" fill="#0f172a">Git</text>
     </g>
     <!-- 19. Docker | Ширина = 85 -> X = 500 + 60 + 10 = 570 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.0s" fill="freeze" />
-      <rect x="570.0" y="500.0" width="85.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="570.0" y="500.0" width="85.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="589.0" cy="514.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.0s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.0s"
+          repeatCount="indefinite" />
       </circle>
       <text x="600.0" y="518" class="mono" font-size="11.6" fill="#0f172a">Docker</text>
     </g>
     <!-- 20. PostgreSQL | Ширина = 115 -> X = 570 + 85 + 10 = 665 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.1s" fill="freeze" />
-      <rect x="665.0" y="500.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="665.0" y="500.0" width="115.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="680.0" cy="514.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.1s"
+          repeatCount="indefinite" />
       </circle>
       <text x="691.0" y="518" class="mono" font-size="11.6" fill="#0f172a">PostgreSQL</text>
     </g>
     <!-- 21. MongoDB | Ширина = 105 -> X = 665 + 115 + 10 = 790 -->
     <g class="pill" opacity="0">
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.2s" fill="freeze" />
-      <rect x="790.0" y="500.0" width="105.0" height="30" rx="15" fill="rgba(91,33,182,0.02)" stroke="rgba(91,33,182,0.15)" stroke-width="1" />
+      <rect x="790.0" y="500.0" width="105.0" height="30" rx="15" fill="rgba(91,33,182,0.02)"
+        stroke="rgba(91,33,182,0.15)" stroke-width="1" />
       <circle cx="805.0" cy="514.0" r="3" fill="#5b21b6">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="5.2s"
+          repeatCount="indefinite" />
       </circle>
       <text x="815.0" y="518" class="mono" font-size="11.6" fill="#0f172a">MongoDB</text>
     </g>

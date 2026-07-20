@@ -371,14 +371,14 @@
     <!-- Разделительная линия между шапкой и рабочей зоной -->
     <line x1="468" y1="64" x2="1156" y2="64" stroke="rgba(212,255,0,0.12)" stroke-width="1" />
     <!-- Главное приветствие (Шрифт 400, Имя — жирный металлик градиент 600) -->
-    <text x="500" y="122" class="mono sans" font-size="26" font-weight="400" fill="#f8fafc">Hi <tspan
+    <text x="500" y="122" class="mono sans" font-size="26" font-weight="400" fill="#f8fafc">Hi there <tspan
         fill="#be185d">👋</tspan> I&#8217;m <tspan fill="url(#metalGrad)" font-weight="600">Anzhelika
       Spekter</tspan></text>
     <rect x="500" y="132" width="0" fill="none" />
     <g class="mono" font-size="17" fill="#d4ff00">
       <text x="500" y="155" fill="#5b6272" font-size="14">$ role:</text>
-      <!-- 1. Technical Product Manager (0s - 4s) -->
-      <text x="570" y="155" clip-path="url(#roleClip0)" opacity="0">Technical Product Manager <animate
+      <!-- 1. AI &amp; Automation Integrator (0s - 4s) -->
+      <text x="570" y="155" clip-path="url(#roleClip0)" opacity="0">AI &amp; Automation Integrator <animate
           attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.9;0.95;1" dur="16s"
           begin="0s" repeatCount="indefinite" />
       </text>
@@ -405,20 +405,20 @@
       </rect>
     </clipPath>
     <clipPath id="roleClip1">
-      <rect x="570" y="130" height="30" width="0">
+      <rect x="570" y="140" height="30" width="0">
         <animate attributeName="width" values="0;0;290;290;0;0" keyTimes="0;0.25;0.30;0.45;0.49;1"
           dur="16s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="roleClip2">
-      <rect x="570" y="130" height="30" width="0">
-        <animate attributeName="width" values="0;0;270;270;0;0" keyTimes="0;0.50;0.55;0.70;0.74;1"
+      <rect x="570" y="140" height="30" width="0">
+        <animate attributeName="width" values="0;0;275;275;0;0" keyTimes="0;0.50;0.55;0.70;0.74;1"
           dur="16s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="roleClip3">
-      <rect x="570" y="130" height="30" width="0">
-        <animate attributeName="width" values="0;0;250;250;0;0" keyTimes="0;0.75;0.80;0.95;0.99;1"
+      <rect x="570" y="140" height="30" width="0">
+        <animate attributeName="width" values="0;0;270;270;0;0" keyTimes="0;0.75;0.80;0.95;0.99;1"
           dur="16s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
@@ -474,8 +474,7 @@
       </a>
     </g>
     <line x1="500" y1="290" x2="1120" y2="290" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
-    <text x="500" y="320" class="mono" font-size="13.5" fill="#e2e8f0">$ skills --list</text>
-
+    <text x="500" y="320" class="mono" font-size="13.5" fill="#5b6272">$ skills --list</text>
     <!-- РЯД 1: Y = 340 -->
     <!-- 1. Make (Integromat) | Ширина = 160 -->
     <g class="pill" opacity="0">
@@ -532,7 +531,6 @@
       </circle>
       <text x="1017.0" y="358" class="mono" font-size="11.6" fill="#f8fafc">Tailwind CSS</text>
     </g>
-
     <!-- РЯД 2: Y = 380 -->
     <!-- 6. Redux | Ширина = 80 -->
     <g class="pill" opacity="0">
@@ -589,7 +587,6 @@
       </circle>
       <text x="916.0" y="398" class="mono" font-size="11.6" fill="#f8fafc">Data Integrity</text>
     </g>
-
     <!-- РЯД 3: Y = 420 -->
     <!-- 11. Python | Ширина = 85 -->
     <g class="pill" opacity="0">
@@ -624,7 +621,6 @@
       </circle>
       <text x="814.0" y="438" class="mono" font-size="11.6" fill="#f8fafc">Process Architecture</text>
     </g>
-
     <!-- РЯД 4: Y = 460 -->
     <!-- 14. Autonomous Agents | Ширина = 165 -->
     <g class="pill" opacity="0">
@@ -670,7 +666,6 @@
       </circle>
       <text x="952.0" y="478" class="mono" font-size="11.6" fill="#f8fafc">Gemini API</text>
     </g>
-
     <!-- РЯД 5: Y = 500 -->
     <!-- 18. Git | Ширина = 60 -->
     <g class="pill" opacity="0">
