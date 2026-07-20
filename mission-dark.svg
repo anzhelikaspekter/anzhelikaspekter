@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1156 340" width="1156" height="340" fill="none">
+  <style>
+    .mono { font-family: monospace; }
+  </style>
+
+  <!-- ГЛАВНАЯ ПОДЛОЖКА (Тёмное матовое стекло) -->
+  <rect x="24" y="24" width="1108" height="292" rx="15" fill="rgba(13,16,23,0.85)"
+    stroke="rgba(212,255,0,0.12)" stroke-width="1" />
+
+  <!-- Шапка окна -->
+  <rect x="24" y="24" width="1108" height="40" rx="15" fill="rgba(212,255,0,0.02)" />
+  <rect x="24" y="44" width="1108" height="20" fill="rgba(212,255,0,0.02)" />
+
+  <!-- Кнопки управления macOS -->
+  <circle cx="50" cy="44" r="6" fill="#ff5f57" />
+  <circle cx="70" cy="44" r="6" fill="#febc2e" />
+  <circle cx="90" cy="44" r="6" fill="#28c840" />
+
+  <!-- Заголовок вкладки -->
+  <text x="578" y="48" text-anchor="middle" class="mono" font-size="11.5" fill="#5b6272"
+    letter-spacing="1.5">anzhelika — mission.zsh</text>
+
+  <!-- Разделительная линия шапки -->
+  <line x1="24" y1="64" x2="1132" y2="64" stroke="rgba(212,255,0,0.12)" stroke-width="1" />
+
+  <g transform="translate(60, 0)">
+    <!-- Строка ввода -->
+    <text x="0" y="110" class="mono" font-size="14" fill="#5b6272">$ <tspan fill="#e2e8f0">cat</tspan> <tspan
+        fill="#d4ff00">My Mission &amp; Endgame.md</tspan></text>
+
+    <!-- 1. Grinding Now -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
+        begin="0.4s" fill="freeze" />
+      <text x="0" y="145" class="mono" font-size="13.5" fill="#f8fafc">
+        <tspan fill="#d4ff00">⏳</tspan>
+        <tspan font-weight="600">Grinding Now:</tspan>
+        <tspan fill="#94a3b8">Connecting CRM systems, databases, and LLM models into working scenarios. Automating manual content</tspan>
+      </text>
+      <text x="20" y="165" class="mono" font-size="13.5" fill="#94a3b8">cross-posting, lead tracking, and client notifications.</text>
+    </g>
+
+    <!-- 2. Ultimate Quest -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
+        begin="0.9s" fill="freeze" />
+      <text x="0" y="200" class="mono" font-size="13.5" fill="#f8fafc">
+        <tspan fill="#d4ff00">🏆</tspan>
+        <tspan font-weight="600">Ultimate Quest:</tspan>
+        <tspan fill="#94a3b8">Building seamless automation hubs managed entirely through custom Telegram interfaces, allowing content
+        </tspan>
+      </text>
+      <text x="20" y="220" class="mono" font-size="13.5" fill="#94a3b8">creators,
+        marketers, and micro-businesses to skip routine tasks.</text>
+    </g>
+
+    <!-- 3. Side Quests -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
+        begin="1.4s" fill="freeze" />
+      <text x="0" y="255" class="mono" font-size="13.5" fill="#f8fafc">
+        <tspan fill="#d4ff00">🗺️</tspan>
+        <tspan font-weight="600">Side Quests:</tspan>
+        <tspan fill="#94a3b8">Creating robust error-handling for Make scenarios to ensure business setups keep running without interruptions,
+        </tspan>
+      </text>
+      <text x="20" y="275" class="mono" font-size="13.5" fill="#94a3b8">even
+        during external API glitches.</text>
+    </g>
+  </g>
+</svg>
