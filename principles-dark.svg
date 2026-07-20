@@ -4,7 +4,7 @@
   </style>
 
   <!-- ГЛАВНАЯ ПОДЛОЖКА (Тёмное матовое стекло) -->
-  <rect x="24" y="24" width="1108" height="332" rx="15" fill="rgba(13,16,23,0.85)"
+  <rect x="24" y="24" width="1108" height="352" rx="15" fill="rgba(13,16,23,0.85)"
     stroke="rgba(212,255,0,0.12)" stroke-width="1" />
 
   <!-- Шапка окна -->
@@ -100,8 +100,9 @@
         <tspan fill="#d4ff00">●</tspan>
         <tspan font-weight="600">Fault Tolerance &amp; Edge Cases:</tspan>
         <tspan fill="#94a3b8">Architecture of robust error-handling routines and fail-safes ensuring
-          24/7 autonomous script execution.</tspan>
+          24/7 autonomous</tspan>
       </text>
+      <text x="16" y="345" class="mono" font-size="13.5" fill="#94a3b8">script execution.</text>
     </g>
   </g>
 </svg>
