@@ -13,25 +13,30 @@ I bridge the gap between business operational logic and robust technical executi
 * **Frontend & Custom Interfaces:** React, TypeScript, Tailwind CSS, Telegram WebApps API
 * **AI Infrastructure:** LLM Integrations (OpenAI, Anthropic APIs), Autonomous AI Agents
 
+## 🛠️ Tech Stack & Arsenal
+
+#### Automation & Integration Core
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=json&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white)
+![Data Integrity](https://img.shields.io/badge/Fault_Tolerance-ED1C24?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
+#### Frontend & TMA Development
+![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A69A?style=for-the-badge&logo=telegram&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### AI Infrastructure & Logic
+![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-d4ff00?style=for-the-badge&logo=aiqfome&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ### 📐 Core Principles
 * **Fault Tolerance First:** Implementing strict error handling and data-flow validation to ensure stable process performance.
 * **Logic Before Execution:** Thorough workflow auditing and precise requirements management before building.
 
----
-
-## 🛠️ Tech Stack & Arsenal
-
-#### Automation & Backend Logic
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-![SendPulse](https://img.shields.io/badge/SendPulse-2088EE?style=for-the-badge&logo=sendpulse&logoColor=white)
-![Webhooks & API](https://img.shields.io/badge/API_Integrations-0052CC?style=for-the-badge&logo=json&logoColor=white)
-![Databases](https://img.shields.io/badge/Database_Mapping-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Frontend & Vector Markup
-![SVG](https://img.shields.io/badge/SVG_Code-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
 
 ## 📊 GitHub Stats & Grind
 
