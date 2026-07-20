@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 320" width="1180" height="320" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1156 380" width="1156" height="380" fill="none">
   <style>
     .mono { font-family: monospace; }
   </style>
 
   <!-- ГЛАВНАЯ ПОДЛОЖКА (Светлое матовое стекло) -->
-  <rect x="24" y="24" width="1180" height="272" rx="15" fill="rgba(248,250,252,0.90)"
-    stroke="rgba(79,70,229,0.12)" stroke-width="1" />
+  <rect x="24" y="24" width="1108" height="332" rx="15" fill="rgba(248,250,252,0.90)"
+    stroke="rgba(91,33,182,0.12)" stroke-width="1" />
 
   <!-- Шапка окна -->
-  <rect x="24" y="24" width="1180" height="40" rx="15" fill="rgba(79,70,229,0.02)" />
-  <rect x="24" y="44" width="1180" height="20" fill="rgba(79,70,229,0.02)" />
+  <rect x="24" y="24" width="1108" height="40" rx="15" fill="rgba(91,33,182,0.02)" />
+  <rect x="24" y="44" width="1108" height="20" fill="rgba(91,33,182,0.02)" />
 
   <!-- Кнопки управления macOS -->
   <circle cx="50" cy="44" r="6" fill="#ff5f56" />
@@ -18,67 +18,90 @@
 
   <!-- Заголовок вкладки -->
   <text x="578" y="48" text-anchor="middle" class="mono" font-size="11.5" fill="#94a3b8"
-    letter-spacing="1.5">anzhelika — core_principles.zsh</text>
+    letter-spacing="1.5">anzhelika — principles.zsh</text>
 
   <!-- Разделительная линия шапки -->
-  <line x1="24" y1="64" x2="1180" y2="64" stroke="rgba(79,70,229,0.12)" stroke-width="1" />
+  <line x1="24" y1="64" x2="1132" y2="64" stroke="rgba(91,33,182,0.12)" stroke-width="1" />
 
-  <!-- КОНТЕНТ БЛОКА 1 (ЛЕВАЯ СТОРОНА) -->
   <g transform="translate(60, 0)">
     <!-- Строка ввода -->
-    <text x="0" y="115" class="mono" font-size="14" fill="#94a3b8">$ <tspan fill="#94a3b8">
-      core-principle</tspan> <tspan fill="#4f46e5">--first</tspan></text>
+    <text x="0" y="110" class="mono" font-size="14" fill="#94a3b8">$ <tspan fill="#94a3b8">systemctl
+      --status</tspan> <tspan fill="#5b21b6">Core Expertise &amp; Workflow Architecture</tspan></text>
 
-    <!-- Вывод команды с анимацией выезда -->
+    <!-- 1. Workflow Automation & API Integration -->
     <g opacity="0" transform="translate(-14,0)">
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
         begin="0.4s" fill="freeze" />
-      <text x="0" y="150" class="mono" font-size="18" font-weight="600" fill="#0f172a">🛡️ Fault
-        Tolerance First</text>
+      <text x="0" y="145" class="mono" font-size="13.5" fill="#0f172a">
+        <tspan fill="#5b21b6">●</tspan>
+        <tspan font-weight="600">Workflow Automation &amp; API Integration:</tspan>
+        <tspan fill="#475569">Designing complex, multi-tiered automation scenarios using</tspan>
+        <tspan fill="#5b21b6">Make</tspan>
+        <tspan fill="#475569">, orchestrating</tspan>
+      </text>
+      <text x="16" y="165" class="mono" font-size="13.5" fill="#475569">databases, CRMs, external
+        APIs, and webhooks into unified infrastructures.</text>
     </g>
 
+    <!-- 2. Infrastructure & Deployment -->
     <g opacity="0" transform="translate(-14,0)">
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
         begin="0.8s" fill="freeze" />
-      <text x="0" y="185" class="mono" font-size="14" fill="#475569">Implementing strict error
-        handling and data-flow</text>
-      <text x="0" y="210" class="mono" font-size="14" fill="#475569">validation to ensure stable
-        process performance</text>
-      <text x="0" y="235" class="mono" font-size="14" fill="#475569">under any architectural edge
-        cases.</text>
+      <text x="0" y="195" class="mono" font-size="13.5" fill="#0f172a">
+        <tspan fill="#5b21b6">●</tspan>
+        <tspan font-weight="600">Infrastructure &amp; Deployment:</tspan>
+        <tspan fill="#475569">Setting up stable, self-hosted environments and deploying critical
+          automation nodes via</tspan>
+        <tspan fill="#5b21b6">Docker</tspan>
+        <tspan fill="#475569">.</tspan>
+      </text>
     </g>
-  </g>
 
-  <!-- Вертикальный внутренний разделитель окон -->
-  <line x1="578" y1="90" x2="578" y2="260" stroke="rgba(0,0,0,0.06)" stroke-width="1" />
-
-  <!-- КОНТЕНТ БЛОКА 2 (ПРАВАЯ СТОРОНА) -->
-  <g transform="translate(618, 0)">
-    <!-- Строка ввода -->
-    <text x="0" y="115" class="mono" font-size="14" fill="#94a3b8">$ <tspan fill="#94a3b8">
-      core-principle</tspan> <tspan fill="#4f46e5">--second</tspan></text>
-
-    <!-- Вывод команды с анимацией выезда -->
+    <!-- 3. Autonomous LLM Agents -->
     <g opacity="0" transform="translate(-14,0)">
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
         begin="1.2s" fill="freeze" />
-      <text x="0" y="150" class="mono" font-size="18" font-weight="600" fill="#0f172a">🧠 Logic
-        Before Execution</text>
+      <text x="0" y="225" class="mono" font-size="13.5" fill="#0f172a">
+        <tspan fill="#5b21b6">●</tspan>
+        <tspan font-weight="600">Autonomous LLM Agents:</tspan>
+        <tspan fill="#475569">Implementing advanced pipelines powered by</tspan>
+        <tspan fill="#5b21b6">OpenAI, Anthropic and Google</tspan>
+        <tspan fill="#475569">models for specialized</tspan>
+      </text>
+      <text x="16" y="245" class="mono" font-size="13.5" fill="#475569">production tasks (media
+        campaign optimization, automated content generation, adaptation, and distribution).</text>
     </g>
 
+    <!-- 4. Telegram Mini Apps Development -->
     <g opacity="0" transform="translate(-14,0)">
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.5s"
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.6s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
         begin="1.6s" fill="freeze" />
-      <text x="0" y="185" class="mono" font-size="14" fill="#475569">Thorough workflow auditing,
-        edge-case mapping,</text>
-      <text x="0" y="210" class="mono" font-size="14" fill="#475569">and precise integration
-        requirements management</text>
-      <text x="0" y="235" class="mono" font-size="14" fill="#475569">before deploying code into
-        architecture.</text>
+      <text x="0" y="275" class="mono" font-size="13.5" fill="#0f172a">
+        <tspan fill="#5b21b6">●</tspan>
+        <tspan font-weight="600">Telegram Mini Apps Development:</tspan>
+        <tspan fill="#475569">Developing custom frontend interfaces inside Telegram using</tspan>
+        <tspan fill="#5b21b6">Front-End Skills</tspan>
+        <tspan fill="#475569">to provide</tspan>
+      </text>
+      <text x="16" y="295" class="mono" font-size="13.5" fill="#475569">clients with interactive,
+        mobile control panels for their automated pipelines.</text>
+    </g>
+
+    <!-- 5. Fault Tolerance & Edge Cases -->
+    <g opacity="0" transform="translate(-14,0)">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.0s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" values="-14,0;0,0" dur="0.4s"
+        begin="2.0s" fill="freeze" />
+      <text x="0" y="325" class="mono" font-size="13.5" fill="#0f172a">
+        <tspan fill="#5b21b6">●</tspan>
+        <tspan font-weight="600">Fault Tolerance &amp; Edge Cases:</tspan>
+        <tspan fill="#475569">Architecture of robust error-handling routines and fail-safes ensuring
+          24/7 autonomous script execution.</tspan>
+      </text>
     </g>
   </g>
 </svg>
