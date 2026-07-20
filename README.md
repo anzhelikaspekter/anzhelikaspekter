@@ -81,7 +81,7 @@ Selected autonomous logic & automation architecture case studies:
 [![TELEGRAM](https://img.shields.io/badge/tg-connect_me-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzhelikaspekter)
 [![TELEGRAM](https://img.shields.io/badge/tg-channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator)
 [![TELEGRAM](https://img.shields.io/badge/tg-bot-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator_bot)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flow,automator)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flow.automator)
 [![TIKTOK](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@flow.automator)
 [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/flow.automater)
 [![PINTEREST](https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/flowautomator)
