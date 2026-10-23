@@ -42,8 +42,9 @@
 [![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs)
 ![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-d4ff00?style=for-the-badge&logo=aiqfome&logoColor=black)
 
-### Data, Dashboards & Reporting
+### Data, SQL & Reporting
 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)](https://lookerstudio.google.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
@@ -55,22 +56,25 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Meta](https://img.shields.io/badge/Meta_Platforms-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
 
-### 🖥️ Interfaces & Mini Apps
+### UI/UX, Dashboards & Mini Apps
 
-[![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/webapps)
 [![UI/UX](https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge)](https://www.nngroup.com/articles/definition-user-experience/)
+[![Dashboard UI/UX](https://img.shields.io/badge/Dashboard_UI%2FUX-334155?style=for-the-badge)](https://www.nngroup.com/articles/dashboard-design/)
+[![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/webapps)
+[![Mini App UX](https://img.shields.io/badge/Mini_App_UX-0F766E?style=for-the-badge)](https://core.telegram.org/bots/webapps)
 
 ### Frontend & TMA Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG_Code-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
 
 ### Infrastructure & Databases
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
 
 ---
 
