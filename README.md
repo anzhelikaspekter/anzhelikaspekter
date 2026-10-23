@@ -10,12 +10,6 @@
 
 ### I am a **Business Automation Specialist** focused on designing custom automated workflows, integrating AI services, connecting business systems, and building interactive applications. I bridge the gap between business process logic and technical implementation, helping digital professionals, content teams, and micro- and small-businesses streamline operations.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./principles-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./principles-light.svg">
-  <img alt="Core Principles Terminal" src="./principles-dark.svg" width="100%">
-</picture>
-
 ---
 
 ## 🧰 Tech Stack & Arsenal
