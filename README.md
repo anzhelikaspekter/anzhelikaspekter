@@ -83,14 +83,11 @@
 #### Feel free to open an issue or connect with me if you need to structure your workflow logic and deploy tailored automation solutions.
 
 [![TELEGRAM](https://img.shields.io/badge/tg-connect_me-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anzhelikaspekter)
-[![TELEGRAM](https://img.shields.io/badge/tg-channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator)
-[![TELEGRAM](https://img.shields.io/badge/tg-bot-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flowautomator_bot)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flow.automator)
-[![TIKTOK](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@flow.automator)
-[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/flow.automater)
-[![PINTEREST](https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/flowautomator)
-[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@flow.automator)
+[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/380676578551)
 
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spekter.solution)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/spekter.solution)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikaspecter/)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anzhelikaspekter&theme=dark&background=0c0f17&title=d4ff00&text=f8fafc&fire=d4ff00&ring=d4ff00&border=1e293b&hide_border=false)](https://git.io/streak-stats)
